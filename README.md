@@ -6,12 +6,7 @@ Customer can order any type of vehicle available at a reasonable rate.
 
 | Number of error introduced | Standard Decoding |  Optimised Standard Decoding  |
  | -------- | ---- | -------- |
- | Motor | Precentral gyrus |
- || Supplementary motor cortex |
- || Left Putamen |
- || Right Putamen |
- | Working memory | Middle frontal gyrus |
- | Emotion | Left amygdala |
- || Right amygdala |
- | Gambling | Left accumbens |
- || Right accumbens |
+ | 2 | 1.8571 | 1.7143 |
+ | 3 | 2.2000 | 2.1714 |
+ | 4 | 1.9429 | 1.8286 |
+ 
